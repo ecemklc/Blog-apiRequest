@@ -1,5 +1,8 @@
 # Blog with HTTP Request
 
+![blog-httpRequest](https://github.com/user-attachments/assets/06c6fc28-971a-4f10-9f50-6ff3b64db3e7)
+
+
 This is a simple blog project demonstrating the use of HTTP requests to fetch data from an API and render it on a webpage.
 
 ## Project Structure
